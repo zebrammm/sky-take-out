@@ -6,3 +6,9 @@ sky:
     database: sky_take_out
     username: root
     password: 102420Zyh
+
+  alioss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI5tRV8GLLnyHw9SDLt8JY
+    access-key-secret: DOJG8VFi69oAQp7MAtqxdml0vmIXcU
+    bucket-name: sky-take-out-zebram
