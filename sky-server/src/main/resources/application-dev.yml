@@ -12,3 +12,9 @@ sky:
     access-key-id: LTAI5tRV8GLLnyHw9SDLt8JY
     access-key-secret: DOJG8VFi69oAQp7MAtqxdml0vmIXcU
     bucket-name: sky-take-out-zebram
+
+  redis:
+    host: localhost
+    port: 6379
+    password: 102420Zyh
+    database: 1
