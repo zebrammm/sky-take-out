@@ -22,3 +22,8 @@ sky:
   wechat:
     appid: wx68bac855d314ce2f
     secret: f2356920c52c153de555ebc300d18e8f
+
+  shop:
+    address: 北京市北京工业大学
+  baidu:
+    ak: bQq9vX34R7hMbbkPFO3TPpvAjyQCiyjg
