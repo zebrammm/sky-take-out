@@ -22,6 +22,8 @@ sky:
   wechat:
     appid: wx68bac855d314ce2f
     secret: f2356920c52c153de555ebc300d18e8f
+    notifyUrl:  https://58869fb.r2.cpolar.top/notify/paySuccess
+    refundNotifyUrl: https://58869fb.r2.cpolar.top/notify/refundSuccess
 
   shop:
     address: 北京市北京工业大学
