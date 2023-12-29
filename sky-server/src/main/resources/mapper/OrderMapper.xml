@@ -76,7 +76,7 @@
                 and order_time &lt; #{end}
             </if>
             <if test="status != null">
-                and status &lt; #{status}
+                and status = #{status}
             </if>
         </where>
     </select>
@@ -90,7 +90,7 @@
                 and order_time &lt; #{end}
             </if>
             <if test="status != null">
-                and status &lt; #{status}
+                and status = #{status}
             </if>
         </where>
     </select>
